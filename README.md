@@ -1,6 +1,7 @@
 # Владислав - Начинающий веб-разработчик
 
-![Мое фото](c:\Users\Владислав\Downloads\Razrabotka-_1_-_1_.jpg)
+
+![Razrabotka-_1_-_1_](https://github.com/user-attachments/assets/71b51322-0491-430e-823e-74a52e9076af)
 
 ## Обо мне
 
